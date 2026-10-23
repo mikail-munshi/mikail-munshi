@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Md. Mikail Munshi, a Computer Science and Engineering student at Premier University passionate about software engineering and problem-solving.<br><br>🧠 Core Foundation: Solid grasp of Data Structures & Algorithms (C++) alongside C, C++, Java, and JavaScript.<br><br>💻 Web Stack: Experienced with Node.js, Express.js, MySQL, WordPress, Tailwind, and Bootstrap.<br><br>🛠️ Tools & OS: Git, GitHub, Linux.<br><br>🚀 Current Focus: Deepening my expertise in Full Stack Development (MERN) to build scalable web applications.
+👋 Hi! I'm Md. Mikail Munshi, a Computer Science and Engineering student at Premier University passionate about software engineering and problem-solving.<br><br>🧠 Core Foundation: Solid grasp of Data Structures & Algorithms (C++) alongside C, C++, Java, and JavaScript.<br><br>💻 Web Stack: Experienced with Node.js, Express.js, MySQL, WordPress, Tailwind, and Bootstrap.<br><br>🛠️ Tools & OS: Git, GitHub, Linux.<br><br>🚀 Current Focus: Deepening my expertise in Full Stack Development (MERN) to build scalable web applications.
 
 
 ## 🌐 Socials:
